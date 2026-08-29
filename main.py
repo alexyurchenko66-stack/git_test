@@ -9,9 +9,15 @@
 # city="estevan"
 # print(f"mene zvaty {name} meni {age} rokiv ya jivu u {city}")
 
-x = 10
-y = 5
-print(x-y)
-print(x+y)
-print(x%y)
-print(x*y)
+# x = 10
+# y = 5
+# print(x-y)
+# print(x+y)
+# print(x%y)
+# print(x*y)
+
+age = 18
+if age >= 18:
+    print("ty povnolitnyi")
+else:
+    print("tobi nema 18")
