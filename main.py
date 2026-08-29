@@ -16,8 +16,14 @@
 # print(x%y)
 # print(x*y)
 
-age = 18
-if age >= 18:
-    print("ty povnolitnyi")
+# age = 18
+# if age >= 18:
+#     print("ty povnolitnyi")
+# else:
+#     print("tobi nema 18")
+
+time = 12
+if time <=11:
+    print("dobrogo ranku")
 else:
-    print("tobi nema 18")
+    print("dobrogo vechora")
