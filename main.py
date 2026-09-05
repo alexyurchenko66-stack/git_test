@@ -29,8 +29,8 @@
 #     print("dobrogo vechora")
 
 
-grade = 12
-if grade <=6:
-    print("pogano")
-else:
-    print("dobre")
+# grade = 12
+# if grade <=6:
+#     print("pogano")
+# else:
+#     print("dobre")
