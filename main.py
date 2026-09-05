@@ -22,8 +22,15 @@
 # else:
 #     print("tobi nema 18")
 
-time = 12
-if time <=11:
-    print("dobrogo ranku")
+# time = 12
+# if time <=11:
+#     print("dobrogo ranku")
+# else:
+#     print("dobrogo vechora")
+
+
+grade = 12
+if grade <=6:
+    print("pogano")
 else:
-    print("dobrogo vechora")
+    print("dobre")
