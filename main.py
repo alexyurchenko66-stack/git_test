@@ -34,5 +34,10 @@
 #     print("pogano")
 # else:
 #     print("dobre")
-for i in range (1,10):
-    print(i)
+# for i in range (1,10):
+#     print(i)
+
+number = 1
+while number <5:
+    print(number)
+    number += 1
